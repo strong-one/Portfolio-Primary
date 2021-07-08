@@ -1,0 +1,30 @@
+{
+  "title": "nick-portfolio",
+  "name": "portfolio",
+  "version": "7.0.5",
+  "description": "portfolio",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "homepage": "https://startbootstrap.com/theme/agency",
+  "dependencies": {
+    "bootstrap": "5.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.2.6",
+    "browser-sync": "2.27.3",
+    "chokidar": "3.5.2",
+    "concurrently": "6.2.0",
+    "postcss": "8.3.5",
+    "prettier": "2.3.2",
+    "pug": "3.0.2",
+    "sass": "1.35.1",
+    "shelljs": "0.8.4",
+    "upath": "2.0.1"
+  }
+}
