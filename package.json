@@ -12,8 +12,12 @@
     "template"
   ],
   "homepage": "https://startbootstrap.com/theme/agency",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
-    "bootstrap": "5.0.2"
+    "bootstrap": "5.0.2",
+    "express": "^4.17.1"
   },
   "devDependencies": {
     "autoprefixer": "10.2.6",
